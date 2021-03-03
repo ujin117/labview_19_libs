@@ -1,0 +1,110 @@
+17.11.2020  14:04            11 520 lo close.vi
+17.11.2020  14:04            11 504 lo creat.vi
+17.11.2020  14:04            11 525 lo create.vi
+17.11.2020  14:04            11 921 lo export.vi
+17.11.2020  14:04            11 609 lo import.vi
+17.11.2020  14:04            12 092 lo lseek.vi
+17.11.2020  14:04            11 803 lo open.vi
+17.11.2020  14:04            12 523 lo read.vi
+17.11.2020  14:04            11 551 lo tell.vi
+17.11.2020  14:04            11 541 lo unlink.vi
+17.11.2020  14:04            12 164 lo write.vi
+17.11.2020  14:04            11 492 PQbackendPID.vi
+17.11.2020  14:04            11 758 PQbinaryTuples.vi
+17.11.2020  14:04            12 180 PQcancel.vi
+17.11.2020  18:17            11 667 PQclear.vi
+17.11.2020  14:04            10 912 PQclientEncoding.vi
+17.11.2020  14:04            10 875 PQcmdStatus.vi
+17.11.2020  14:04            10 907 PQcmdTuples.vi
+17.11.2020  14:04            11 302 PQconndefaults.vi
+17.11.2020  14:04            11 247 PQconnectdb.vi
+17.11.2020  14:04            11 161 PQconnectPoll.vi
+17.11.2020  14:04            10 870 PQconnectStart.vi
+17.11.2020  14:04            11 926 PQconninfoFree.vi
+17.11.2020  14:04            10 946 PQconsumeInput.vi
+17.11.2020  14:04            11 556 PQdb.vi
+17.11.2020  14:04            12 004 PQdescribePortal.vi
+17.11.2020  14:04            12 010 PQdescribePrepared.vi
+17.11.2020  14:04            11 296 PQdsplen.vi
+17.11.2020  14:04            11 221 PQencryptPassword.vi
+17.11.2020  14:04            10 558 PQenv2encoding.vi
+17.11.2020  14:48            11 618 PQerrorMessage.vi
+17.11.2020  14:04            11 805 PQescapeBytea.vi
+17.11.2020  14:04            12 849 PQescapeByteaConn.vi
+17.11.2020  14:04            11 894 PQescapeString.vi
+17.11.2020  14:04            12 770 PQescapeStringConn.vi
+17.11.2020  15:55            12 234 PQexec.vi
+17.11.2020  14:04            15 136 PQexecParams.vi
+17.11.2020  14:04            14 738 PQexecPrepared.vi
+17.11.2020  14:04            11 845 PQfformat.vi
+17.11.2020  14:42            11 196 PQfinish.vi
+17.11.2020  14:04            11 699 PQflush.vi
+17.11.2020  14:04            11 978 PQfmod.vi
+17.11.2020  14:04            11 923 PQfname.vi
+17.11.2020  14:04            11 845 PQfnumber.vi
+17.11.2020  14:04            10 912 PQfreeCancel.vi
+17.11.2020  14:04            10 481 PQfreemem.vi
+17.11.2020  14:04            11 983 PQfsize.vi
+17.11.2020  14:04            11 732 PQftable.vi
+17.11.2020  14:04            12 011 PQftablecol.vi
+17.11.2020  14:04            11 759 PQftype.vi
+17.11.2020  14:04            11 151 PQgetCancel.vi
+17.11.2020  14:04            12 165 PQgetCopyData.vi
+17.11.2020  14:04            12 143 PQgetisnull.vi
+17.11.2020  14:04            12 271 PQgetlength.vi
+17.11.2020  15:46            11 699 PQgetResult.vi
+17.11.2020  14:04            11 820 PQgetssl.vi
+17.11.2020  16:16            12 038 PQgetvalue.vi
+17.11.2020  14:04            11 170 PQhost.vi
+17.11.2020  14:04            10 565 PQinitSSL.vi
+17.11.2020  14:04            11 156 PQisBusy.vi
+17.11.2020  14:04            11 179 PQisnonblocking.vi
+17.11.2020  14:04            10 562 PQisthreadsafe.vi
+17.11.2020  14:04            11 723 PQmakeEmptyPGresult.vi
+17.11.2020  14:04            11 291 PQmblen.vi
+17.11.2020  14:04            11 445 PQnfields.vi
+17.11.2020  14:04            11 130 PQnotifies.vi
+17.11.2020  14:04            11 109 PQnparams.vi
+17.11.2020  16:15            11 465 PQntuples.vi
+17.11.2020  14:04            10 919 PQoidStatus.vi
+17.11.2020  14:04            10 890 PQoidValue.vi
+17.11.2020  14:04            11 437 PQoptions.vi
+17.11.2020  14:04            12 685 PQparameterStatus.vi
+17.11.2020  14:04            11 415 PQparamtype.vi
+17.11.2020  14:04            11 386 PQpass.vi
+17.11.2020  14:04            11 394 PQport.vi
+17.11.2020  14:04            13 265 PQprepare.vi
+17.11.2020  14:04            12 935 PQprint.vi
+17.11.2020  14:04             5 971 PQprintOpt.ctl
+17.11.2020  14:04            11 153 PQprotocolVersion.vi
+17.11.2020  14:04            11 945 PQputCopyData.vi
+17.11.2020  14:04            11 632 PQputCopyEnd.vi
+17.11.2020  14:04            11 160 PQregisterThreadLock.vi
+17.11.2020  14:04            11 147 PQrequestCancel.vi
+17.11.2020  14:04            11 275 PQreset.vi
+17.11.2020  14:04            11 411 PQresetPoll.vi
+17.11.2020  14:04            11 432 PQresetStart.vi
+17.11.2020  14:04            11 163 PQresStatus.vi
+17.11.2020  14:04            12 818 PQresultErrorField.vi
+17.11.2020  15:45            11 648 PQresultErrorMessage.vi
+17.11.2020  15:45            11 662 PQresultStatus.vi
+17.11.2020  14:04            11 624 PQsendDescribePortal.vi
+17.11.2020  14:04            11 654 PQsendDescribePrepared.vi
+17.11.2020  14:04            13 161 PQsendPrepare.vi
+17.11.2020  15:44            12 115 PQsendQuery.vi
+17.11.2020  14:04            14 769 PQsendQueryParams.vi
+17.11.2020  14:04            13 323 PQsendQueryPrepared.vi
+17.11.2020  14:04            11 399 PQserverVersion.vi
+17.11.2020  14:04            11 307 PQsetClientEncoding.vi
+17.11.2020  14:04            13 324 PQsetdbLogin.vi
+17.11.2020  14:04            11 575 PQsetErrorVerbosity.vi
+17.11.2020  14:04            12 300 PQsetnonblocking.vi
+17.11.2020  14:04            12 092 PQsetNoticeProcessor.vi
+17.11.2020  14:04            12 067 PQsetNoticeReceiver.vi
+17.11.2020  14:04            11 620 PQsocket.vi
+17.11.2020  14:46            11 388 PQstatus.vi
+17.11.2020  14:04            11 812 PQtransaction Status.vi
+17.11.2020  14:04            11 533 PQtty.vi
+17.11.2020  14:04            11 539 PQunescapeBytea.vi
+17.11.2020  14:04            10 893 PQuntrace.vi
+17.11.2020  14:04            11 446 PQuser.vi
