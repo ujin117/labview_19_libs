@@ -15,6 +15,7 @@
 		<Item Name="ALRColumns.ctl" Type="VI" URL="../Ctl/ALRColumns.ctl"/>
 		<Item Name="ALR_Status.ctl" Type="VI" URL="../Ctl/ALR_Status.ctl"/>
 		<Item Name="ALR_Status_short.ctl" Type="VI" URL="../Ctl/ALR_Status_short.ctl"/>
+		<Item Name="Sensor alarm scada.ctl" Type="VI" URL="../../Inputs/Ctl/Sensor alarm scada.ctl"/>
 		<Item Name="ALRs_State.ctl" Type="VI" URL="../Ctl/ALRs_State.ctl"/>
 	</Item>
 	<Item Name="Activ ALRB.vi" Type="VI" URL="../Activ ALRB.vi"/>

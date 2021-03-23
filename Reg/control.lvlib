@@ -22,7 +22,9 @@
 		<Item Name="ZY_state_short.ctl" Type="VI" URL="../ctl/ZY_state_short.ctl"/>
 		<Item Name="ZY_control_short.ctl" Type="VI" URL="../ctl/ZY_control_short.ctl"/>
 		<Item Name="ZY_OPC_control_short.ctl" Type="VI" URL="../ctl/ZY_OPC_control_short.ctl"/>
+		<Item Name="ZYs_OPC_control_short.ctl" Type="VI" URL="../ctl/ZYs_OPC_control_short.ctl"/>
 		<Item Name="ZYs_control_short.ctl" Type="VI" URL="../ctl/ZYs_control_short.ctl"/>
+		<Item Name="Ys_short.ctl" Type="VI" URL="../ctl/Ys_short.ctl"/>
 	</Item>
 	<Item Name="bronkhorst_reg.vi" Type="VI" URL="../bronkhorst_reg.vi"/>
 	<Item Name="bronkhorst_reg_simple.vi" Type="VI" URL="../bronkhorst_reg_simple.vi"/>
