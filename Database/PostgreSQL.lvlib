@@ -27,6 +27,7 @@
 	<Item Name="create table parameters.vi" Type="VI" URL="../create table parameters.vi"/>
 	<Item Name="init classes.vi" Type="VI" URL="../init classes.vi"/>
 	<Item Name="list and create PG table.vi" Type="VI" URL="../list and create PG table.vi"/>
+	<Item Name="list and create PG table 64.vi" Type="VI" URL="../list and create PG table 64.vi"/>
 	<Item Name="list and create PG AI table_1.vi" Type="VI" URL="../list and create PG AI table_1.vi"/>
 	<Item Name="list and create PG AI table 64.vi" Type="VI" URL="../list and create PG AI table 64.vi"/>
 	<Item Name="list and create PG alarms sequence_1.vi" Type="VI" URL="../list and create PG alarms sequence_1.vi"/>
@@ -40,8 +41,10 @@
 	<Item Name="Progress.vi" Type="VI" URL="../Progress.vi"/>
 	<Item Name="Save param in PGserver.vi" Type="VI" URL="../Save param in PGserver.vi"/>
 	<Item Name="select_initial.vi" Type="VI" URL="../select_initial.vi"/>
+	<Item Name="select_initial_all.vi" Type="VI" URL="../select_initial_all.vi"/>
 	<Item Name="select_initial_alr.vi" Type="VI" URL="../select_initial_alr.vi"/>
 	<Item Name="select_initial_historian.vi" Type="VI" URL="../select_initial_historian.vi"/>
+	<Item Name="select_initial_historian_1tuple.vi" Type="VI" URL="../select_initial_historian_1tuple.vi"/>
 	<Item Name="Start Save progs.vi" Type="VI" URL="../Start Save progs.vi"/>
 	<Item Name="table name.vi" Type="VI" URL="../table name.vi"/>
 </Library>

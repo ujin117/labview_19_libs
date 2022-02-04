@@ -31,6 +31,7 @@
 	<Item Name="ALR select.vi" Type="VI" URL="../ALR select.vi"/>
 	<Item Name="ALR_init.vi" Type="VI" URL="../ALR_init.vi"/>
 	<Item Name="ALR scada init.vi" Type="VI" URL="../ALR scada init.vi"/>
+	<Item Name="ALR scada.vi" Type="VI" URL="../ALR scada.vi"/>
 	<Item Name="Exchange ALR_ON_OFFs.vi" Type="VI" URL="../Exchange ALR_ON_OFFs.vi"/>
 	<Item Name="Get alarms from PGserver.vi" Type="VI" URL="../Get alarms from PGserver.vi"/>
 	<Item Name="Clear ALR_ACKs.vi" Type="VI" URL="../Clear ALR_ACKs.vi"/>

@@ -9,20 +9,26 @@
 		<Item Name="general_init.ctl" Type="VI" URL="../ctl/general_init.ctl"/>
 		<Item Name="general_init_client.ctl" Type="VI" URL="../ctl/general_init_client.ctl"/>
 		<Item Name="main_prog_state.ctl" Type="VI" URL="../ctl/main_prog_state.ctl"/>
-		<Item Name="scada_prog_state.ctl" Type="VI" URL="../../../../../../../projects/Graphetron_1/Heater/PROG/GM3_200601/enums/scada_prog_state.ctl"/>
 		<Item Name="Y.ctl" Type="VI" URL="../ctl/Y.ctl"/>
 		<Item Name="Y_short.ctl" Type="VI" URL="../ctl/Y_short.ctl"/>
+		<Item Name="Ys_short.ctl" Type="VI" URL="../ctl/Ys_short.ctl"/>
+		<Item Name="Y_control.ctl" Type="VI" URL="../ctl/Y_control.ctl"/>
 		<Item Name="Y_source.ctl" Type="VI" URL="../ctl/Y_source.ctl"/>
 		<Item Name="Y_state.ctl" Type="VI" URL="../ctl/Y_state.ctl"/>
 		<Item Name="Z.ctl" Type="VI" URL="../ctl/Z.ctl"/>
+		<Item Name="Z_source.ctl" Type="VI" URL="../ctl/Z_source.ctl"/>
+		<Item Name="Z_control.ctl" Type="VI" URL="../ctl/Z_control.ctl"/>
 		<Item Name="Z_State.ctl" Type="VI" URL="../ctl/Z_State.ctl"/>
 		<Item Name="ZM_State.ctl" Type="VI" URL="../ctl/ZM_State.ctl"/>
 		<Item Name="ZY_control.ctl" Type="VI" URL="../ctl/ZY_control.ctl"/>
+		<Item Name="ZYs_control.ctl" Type="VI" URL="../ctl/ZYs_control.ctl"/>
 		<Item Name="ZY_state.ctl" Type="VI" URL="../ctl/ZY_state.ctl"/>
 		<Item Name="ZY_state_OPC.ctl" Type="VI" URL="../ctl/ZY_state_OPC.ctl"/>
 		<Item Name="ZY_state_short.ctl" Type="VI" URL="../ctl/ZY_state_short.ctl"/>
+		<Item Name="ZYs_state_short.ctl" Type="VI" URL="../ctl/ZYs_state_short.ctl"/>
 		<Item Name="Z_ind_heating.ctl" Type="VI" URL="../ctl/Z_ind_heating.ctl"/>
 		<Item Name="Z_Hswitch.xctl" Type="XControl" URL="../ctl/Z_Hswitch/Z_Hswitch.xctl"/>
+		<Item Name="Z_Hswitch_little.xctl" Type="XControl" URL="../ctl/Z_Hswitch_little/Z_Hswitch_little.xctl"/>
 		<Item Name="Z_OnSwitch.xctl" Type="XControl" URL="../ctl/Z_OnSwitch/Z_OnSwitch.xctl"/>
 		<Item Name="Y_SP.xctl" Type="XControl" URL="../ctl/Y_SP/Y_SP.xctl"/>
 		<Item Name="YQ.xctl" Type="XControl" URL="../ctl/YQ/YQ.xctl"/>
@@ -31,13 +37,27 @@
 	</Item>
 	<Item Name="Button_handling.vi" Type="VI" URL="../Button_handling.vi"/>
 	<Item Name="Change_state.vi" Type="VI" URL="../Change_state.vi"/>
+	<Item Name="Get heater param from PGserver.vi" Type="VI" URL="../heating1/Get heater param from PGserver.vi"/>
 	<Item Name="heating.vi" Type="VI" URL="../heating.vi"/>
 	<Item Name="heating_reg.vi" Type="VI" URL="../heating_reg.vi"/>
 	<Item Name="heating_visu.vi" Type="VI" URL="../heating_visu.vi"/>
 	<Item Name="heating_visu_colors.vi" Type="VI" URL="../heating_visu_colors.vi"/>
+	<Item Name="heating_ZM_state_ind.vi" Type="VI" URL="../heating1/heating_ZM_state_ind.vi"/>
+	<Item Name="PID SP Limiter ZM_heating.vi" Type="VI" URL="../PID SP Limiter ZM_heating.vi"/>
 	<Item Name="Read heating control.vi" Type="VI" URL="../Read heating control.vi"/>
 	<Item Name="Y_switch_heating.vi" Type="VI" URL="../Y_switch_heating.vi"/>
 	<Item Name="Z_State_heating.vi" Type="VI" URL="../Z_State_heating.vi"/>
 	<Item Name="Z_switch_heating.vi" Type="VI" URL="../Z_switch_heating.vi"/>
 	<Item Name="ZM_State_heating.vi" Type="VI" URL="../ZM_State_heating.vi"/>
+	<Item Name="ZY to Y.vi" Type="VI" URL="../heating1/ZY to Y.vi"/>
+	<Item Name="ZY to Z.vi" Type="VI" URL="../heating1/ZY to Z.vi"/>
+	<Item Name="ZY to Y1.vi" Type="VI" URL="../heating1/ZY to Y1.vi"/>
+	<Item Name="ZY to Z1.vi" Type="VI" URL="../heating1/ZY to Z1.vi"/>
+	<Item Name="HE_Z_state.lvclass" Type="LVClass" URL="../heating1/Z_state/HE_Z_state.lvclass"/>
+	<Item Name="HE_Z_state_v2.lvclass" Type="LVClass" URL="../heating1/Z_state_v2/HE_Z_state_v2.lvclass"/>
+	<Item Name="HE_ZM_state.lvclass" Type="LVClass" URL="../heating1/ZM_state/HE_ZM_state.lvclass"/>
+	<Item Name="HE_state.lvclass" Type="LVClass" URL="../heating1/HE_state.lvclass"/>
+	<Item Name="HE_state_v2.lvclass" Type="LVClass" URL="../heating1/HE_state_v2/HE_state_v2.lvclass"/>
+	<Item Name="HE_reg.lvclass" Type="LVClass" URL="../heating1/REG/HE_reg.lvclass"/>
+	<Item Name="Heater.lvclass" Type="LVClass" URL="../heating1/Heater.lvclass"/>
 </Library>

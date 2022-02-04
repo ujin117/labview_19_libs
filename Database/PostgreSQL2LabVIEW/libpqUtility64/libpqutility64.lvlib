@@ -22,8 +22,8 @@
 		<Item Name="PQlistColumns.vi" Type="VI" URL="../src/PQlistColumns.vi"/>
 		<Item Name="PQlistSequenses.vi" Type="VI" URL="../src/PQlistSequenses.vi"/>
 		<Item Name="PQlistTables.vi" Type="VI" URL="../src/PQlistTables.vi"/>
-		<Item Name="PQlistAndCreateSequence.vi" Type="VI" URL="../src/PQlistAndCreateSequence.vi"/>
 		<Item Name="PQlistAndCreateColumns.vi" Type="VI" URL="../src/PQlistAndCreateColumns.vi"/>
+		<Item Name="PQlistAndCreateSequence.vi" Type="VI" URL="../src/PQlistAndCreateSequence.vi"/>
 	</Item>
 	<Item Name="copy" Type="Folder">
 		<Item Name="PQexpressCOPYCmd.vi" Type="VI" URL="../src/PQexpressCOPYCmd.vi"/>
