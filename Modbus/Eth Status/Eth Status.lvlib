@@ -4,7 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">419463168</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Ctl" Type="Folder">
-		<Item Name="ICPCON Status.ctl" Type="VI" URL="../Ctl/ICPCON Status.ctl"/>
+		<Item Name="Status.ctl" Type="VI" URL="../Ctl/Status.ctl"/>
 	</Item>
 	<Item Name="Eth Status Manager Close.vi" Type="VI" URL="../Eth Status Manager Close.vi"/>
 	<Item Name="Eth Status Manager Init.vi" Type="VI" URL="../Eth Status Manager Init.vi"/>

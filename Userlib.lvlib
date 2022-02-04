@@ -10,6 +10,11 @@
 		<Item Name="switch request.vi" Type="VI" URL="../Array/switch request.vi"/>
 		<Item Name="switch on request.vi" Type="VI" URL="../Array/switch on request.vi"/>
 		<Item Name="switch off request.vi" Type="VI" URL="../Array/switch off request.vi"/>
+		<Item Name="Init and Rotate array bool.vi" Type="VI" URL="../Array/Init and Rotate array bool.vi"/>
+		<Item Name="Init and Rotate array Double.vi" Type="VI" URL="../Array/Init and Rotate array Double.vi"/>
+		<Item Name="Init and Rotate array UInt32.vi" Type="VI" URL="../Array/Init and Rotate array UInt32.vi"/>
+		<Item Name="Init and Rotate array Graf.vi" Type="VI" URL="../Array/Init and Rotate array Graf.vi"/>
+		<Item Name="Init and Rotate array Graf2.vi" Type="VI" URL="../Array/Init and Rotate array Graf2.vi"/>
 	</Item>
 	<Item Name="Ctl" Type="Folder">
 		<Item Name="Alarm_viev.ctl" Type="VI" URL="../Ctl/Alarm_viev.ctl"/>
@@ -38,10 +43,16 @@
 		<Item Name="Plot weight2.vi" Type="VI" URL="../Plot/Plot weight2.vi"/>
 	</Item>
 	<Item Name="Sequence" Type="Folder">
+		<Item Name="Select state.vi" Type="VI" URL="../Sequence/Select state.vi"/>
 		<Item Name="State1.vi" Type="VI" URL="../Sequence/State1.vi"/>
 		<Item Name="State1_3.vi" Type="VI" URL="../Sequence/State1_3.vi"/>
 		<Item Name="StateN.vi" Type="VI" URL="../Sequence/StateN.vi"/>
+		<Item Name="step1.vi" Type="VI" URL="../Sequence/step1.vi"/>
+		<Item Name="step2.vi" Type="VI" URL="../Sequence/step2.vi"/>
+		<Item Name="step3.vi" Type="VI" URL="../Sequence/step3.vi"/>
+		<Item Name="step4.vi" Type="VI" URL="../Sequence/step4.vi"/>
 		<Item Name="step3N.vi" Type="VI" URL="../Sequence/step3N.vi"/>
+		<Item Name="State.lvclass" Type="LVClass" URL="../Sequence/State/State.lvclass"/>
 	</Item>
 	<Item Name="Transform" Type="Folder">
 		<Item Name="braces.vi" Type="VI" URL="../Transform/braces.vi"/>
@@ -50,10 +61,13 @@
 		<Item Name="Reg to BCD.vi" Type="VI" URL="../Transform/Reg to BCD.vi"/>
 		<Item Name="Impulsator_reg.vi" Type="VI" URL="../Transform/Impulsator_reg.vi"/>
 		<Item Name="invert color.vi" Type="VI" URL="../Transform/invert color.vi"/>
+		<Item Name="rotate XY graf.vi" Type="VI" URL="../Transform/rotate XY graf.vi"/>
+		<Item Name="range for XY graf.vi" Type="VI" URL="../Transform/range for XY graf.vi"/>
 		<Item Name="Spases.vi" Type="VI" URL="../Transform/Spases.vi"/>
 		<Item Name="Ltree array to JSON.vi" Type="VI" URL="../Transform/Ltree array to JSON.vi"/>
 		<Item Name="Ltree to JSON.vi" Type="VI" URL="../Transform/Ltree to JSON.vi"/>
 		<Item Name="JSON to LTRE.vi" Type="VI" URL="../Transform/JSON to LTRE.vi"/>
 		<Item Name="JSON to array.vi" Type="VI" URL="../Transform/JSON to array.vi"/>
+		<Item Name="Impulsator.lvclass" Type="LVClass" URL="../Transform/Impulsator.lvclass"/>
 	</Item>
 </Library>

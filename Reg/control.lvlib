@@ -9,12 +9,15 @@
 		<Item Name="control param.ctl" Type="VI" URL="../ctl/control param.ctl"/>
 		<Item Name="control param simple.ctl" Type="VI" URL="../ctl/control param simple.ctl"/>
 		<Item Name="PID param.ctl" Type="VI" URL="../ctl/PID param.ctl"/>
+		<Item Name="PID_OL_AM_param.ctl" Type="VI" URL="../ctl/PID_OL_AM_param.ctl"/>
 		<Item Name="SpLim_State.ctl" Type="VI" URL="../ctl/SpLim_State.ctl"/>
 		<Item Name="Y.ctl" Type="VI" URL="../ctl/Y.ctl"/>
-		<Item Name="Y_Lim_ext_defs.ctl" Type="VI" URL="../ctl/Y_Lim_ext_defs.ctl"/>
-		<Item Name="Y_Lim_State.ctl" Type="VI" URL="../ctl/Y_Lim_State.ctl"/>
 		<Item Name="Ys.ctl" Type="VI" URL="../ctl/Ys.ctl"/>
 		<Item Name="Y_short.ctl" Type="VI" URL="../ctl/Y_short.ctl"/>
+		<Item Name="Ys_short.ctl" Type="VI" URL="../ctl/Ys_short.ctl"/>
+		<Item Name="Y_Lim_ext_defs.ctl" Type="VI" URL="../ctl/Y_Lim_ext_defs.ctl"/>
+		<Item Name="Y_Lim_State.ctl" Type="VI" URL="../ctl/Y_Lim_State.ctl"/>
+		<Item Name="Y_control.ctl" Type="VI" URL="../ctl/Y_control.ctl"/>
 		<Item Name="Y_source.ctl" Type="VI" URL="../ctl/Y_source.ctl"/>
 		<Item Name="Y_state.ctl" Type="VI" URL="../ctl/Y_state.ctl"/>
 		<Item Name="Z.ctl" Type="VI" URL="../ctl/Z.ctl"/>
@@ -24,25 +27,41 @@
 		<Item Name="ZY_OPC_control_short.ctl" Type="VI" URL="../ctl/ZY_OPC_control_short.ctl"/>
 		<Item Name="ZYs_OPC_control_short.ctl" Type="VI" URL="../ctl/ZYs_OPC_control_short.ctl"/>
 		<Item Name="ZYs_control_short.ctl" Type="VI" URL="../ctl/ZYs_control_short.ctl"/>
-		<Item Name="Ys_short.ctl" Type="VI" URL="../ctl/Ys_short.ctl"/>
+		<Item Name="SP_h1.xctl" Type="XControl" URL="../ctl/SP_H1/SP_h1.xctl"/>
+		<Item Name="Y_h1.xctl" Type="XControl" URL="../ctl/Y_H1/Y_h1.xctl"/>
+		<Item Name="Y_h4.xctl" Type="XControl" URL="../ctl/Y_H4/Y_h4.xctl"/>
+	</Item>
+	<Item Name="PID" Type="Folder">
+		<Item Name="PID.vi" Type="VI" URL="../PID/PID.vi"/>
+		<Item Name="PID Advanced.vi" Type="VI" URL="../PID/PID Advanced.vi"/>
+		<Item Name="PID and FIT.vi" Type="VI" URL="../PID/PID and FIT.vi"/>
+		<Item Name="PID Output Rate Limiter Inn.vi" Type="VI" URL="../PID/PID Output Rate Limiter Inn.vi"/>
+		<Item Name="PID Output Rate Limiter Ext.vi" Type="VI" URL="../PID/PID Output Rate Limiter Ext.vi"/>
+		<Item Name="PID Output Rate Limiter.vi" Type="VI" URL="../PID/PID Output Rate Limiter.vi"/>
+		<Item Name="PID Setpoint Profile Staged.vi" Type="VI" URL="../PID/PID Setpoint Profile Staged.vi"/>
+		<Item Name="PID Setpoint Profile.vi" Type="VI" URL="../PID/PID Setpoint Profile.vi"/>
+		<Item Name="PID SP Limiter.vi" Type="VI" URL="../PID/PID SP Limiter.vi"/>
+		<Item Name="PID SP LimiterZM.vi" Type="VI" URL="../PID SP LimiterZM.vi"/>
+		<Item Name="PID Timing Estimation Ext.vi" Type="VI" URL="../PID/PID Timing Estimation Ext.vi"/>
+		<Item Name="PID Timing Estimation.vi" Type="VI" URL="../PID/PID Timing Estimation.vi"/>
+		<Item Name="PID Timing Estimation.lvclass" Type="LVClass" URL="../PID/PID Timing Estimation/PID Timing Estimation.lvclass"/>
+		<Item Name="PID Output Rate Limiter.lvclass" Type="LVClass" URL="../PID/PID Output Rate Limiter/PID Output Rate Limiter.lvclass"/>
+		<Item Name="PID.lvclass" Type="LVClass" URL="../PID/PID.lvclass"/>
+		<Item Name="PID SP Limiter.lvclass" Type="LVClass" URL="../PID/PID SP Limiter/PID SP Limiter.lvclass"/>
+		<Item Name="PID_OL_AM.lvclass" Type="LVClass" URL="../PID/PID_OL_AM/PID_OL_AM.lvclass"/>
 	</Item>
 	<Item Name="bronkhorst_reg.vi" Type="VI" URL="../bronkhorst_reg.vi"/>
 	<Item Name="bronkhorst_reg_simple.vi" Type="VI" URL="../bronkhorst_reg_simple.vi"/>
 	<Item Name="bronkhorst_reg_simple_ext.vi" Type="VI" URL="../bronkhorst_reg_simple_ext.vi"/>
 	<Item Name="flow_reg.vi" Type="VI" URL="../flow_reg.vi"/>
+	<Item Name="Get bronkhorst param from PGserver.vi" Type="VI" URL="../Get bronkhorst param from PGserver.vi"/>
+	<Item Name="Get Experiments from PGserver.vi" Type="VI" URL="../Get Experiments from PGserver.vi"/>
+	<Item Name="Get Reg values from OPC.vi" Type="VI" URL="../Get Reg values from OPC.vi"/>
 	<Item Name="OnOff.vi" Type="VI" URL="../OnOff.vi"/>
-	<Item Name="PID.vi" Type="VI" URL="../PID.vi"/>
-	<Item Name="PID Advanced.vi" Type="VI" URL="../PID Advanced.vi"/>
-	<Item Name="PID and FIT.vi" Type="VI" URL="../PID and FIT.vi"/>
-	<Item Name="PID Output Rate Limiter Ext.vi" Type="VI" URL="../PID Output Rate Limiter Ext.vi"/>
-	<Item Name="PID Output Rate Limiter.vi" Type="VI" URL="../PID Output Rate Limiter.vi"/>
-	<Item Name="PID Setpoint Profile Staged.vi" Type="VI" URL="../PID Setpoint Profile Staged.vi"/>
-	<Item Name="PID Setpoint Profile.vi" Type="VI" URL="../PID Setpoint Profile.vi"/>
-	<Item Name="PID SP Limiter.vi" Type="VI" URL="../PID SP Limiter.vi"/>
-	<Item Name="PID SP LimiterZM.vi" Type="VI" URL="../PID SP LimiterZM.vi"/>
-	<Item Name="PID Timing Estimation Ext.vi" Type="VI" URL="../PID Timing Estimation Ext.vi"/>
-	<Item Name="PID Timing Estimation.vi" Type="VI" URL="../PID Timing Estimation.vi"/>
 	<Item Name="Y Limiter.vi" Type="VI" URL="../Y Limiter.vi"/>
 	<Item Name="Y Limiter_ext.vi" Type="VI" URL="../Y Limiter_ext.vi"/>
 	<Item Name="Y_switch_control.vi" Type="VI" URL="../Y_switch_control.vi"/>
+	<Item Name="Write json to reg param one.vi" Type="VI" URL="../Write json to reg param one.vi"/>
+	<Item Name="Y_Limiter.lvclass" Type="LVClass" URL="../Y_Limiter/Y_Limiter.lvclass"/>
+	<Item Name="bronkhorst_reg_2.lvclass" Type="LVClass" URL="../bronkhorst_reg_2/bronkhorst_reg_2.lvclass"/>
 </Library>

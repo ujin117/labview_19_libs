@@ -7,13 +7,23 @@
 	<Item Name="Access level.ctl" Type="VI" URL="../Access level.ctl"/>
 	<Item Name="OPC tag.ctl" Type="VI" URL="../OPC tag.ctl"/>
 	<Item Name="OPC UA Client.ctl" Type="VI" URL="../OPC UA Client.ctl"/>
+	<Item Name="OPC UA Server.ctl" Type="VI" URL="../OPC UA Server.ctl"/>
 	<Item Name="Period.ctl" Type="VI" URL="../Period.ctl"/>
 	<Item Name="Read reg control.vi" Type="VI" URL="../Read reg control.vi"/>
+	<Item Name="Read HE ZYState.vi" Type="VI" URL="../Read HE ZYState.vi"/>
+	<Item Name="Read valve control.vi" Type="VI" URL="../Read valve control.vi"/>
+	<Item Name="Read OPC ini param.vi" Type="VI" URL="../Read OPC ini param.vi"/>
+	<Item Name="Read OPC ALRName.vi" Type="VI" URL="../Read OPC ALRName.vi"/>
 	<Item Name="Select OPC tag.vi" Type="VI" URL="../Select OPC tag.vi"/>
 	<Item Name="Select OPC node IDs.vi" Type="VI" URL="../Select OPC node IDs.vi"/>
 	<Item Name="Write AI.vi" Type="VI" URL="../Write AI.vi"/>
+	<Item Name="Write AI_reorder_table.vi" Type="VI" URL="../Write AI_reorder_table.vi"/>
 	<Item Name="Write AI_AO_ALRState.vi" Type="VI" URL="../Write AI_AO_ALRState.vi"/>
 	<Item Name="Write DI_DO.vi" Type="VI" URL="../Write DI_DO.vi"/>
+	<Item Name="Write DI_reorder_table.vi" Type="VI" URL="../Write DI_reorder_table.vi"/>
+	<Item Name="Write YState.vi" Type="VI" URL="../Write YState.vi"/>
+	<Item Name="Write ZStateVCH.vi" Type="VI" URL="../Write ZStateVCH.vi"/>
+	<Item Name="Write ZYState.vi" Type="VI" URL="../Write ZYState.vi"/>
 	<Item Name="Write element.vi" Type="VI" URL="../Write element.vi"/>
 	<Item Name="Write element_1.vi" Type="VI" URL="../Write element_1.vi"/>
 	<Item Name="Write folders.vi" Type="VI" URL="../Write folders.vi"/>

@@ -9,4 +9,5 @@
 	</Item>
 	<Item Name="compress_local_messages.vi" Type="VI" URL="../compress_local_messages.vi"/>
 	<Item Name="Create message Queues.vi" Type="VI" URL="../Create message Queues.vi"/>
+	<Item Name="Release message Queues.vi" Type="VI" URL="../Release message Queues.vi"/>
 </Library>
